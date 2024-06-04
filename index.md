@@ -1,5 +1,3 @@
-# Marcus Timeline (from qckapiu POV)
-
 ## Table of contents
 
 * [Pre-ban from Hoyoverse Events HI discord server](#pre-ban)
